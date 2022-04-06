@@ -230,7 +230,7 @@ svg {
 }
 
 .food{
-  background-image: url(file:///C:/Users/kraie/Downloads/new%20storefront.png);
+  background-image: url(./assets/newstorefront.png);
   display: inside;
   align-items: normal;
   min-height: 100vh;
